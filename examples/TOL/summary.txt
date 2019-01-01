@@ -1,0 +1,15 @@
+Reduction Summary for molecule 0
+
+Initial Number of atoms: 15
+Initial contraction consists of 8 into 7 groups
+Reduction Round 1
+Initial number of groups: 7
+Reduction at iteration 0 --> 4 groups
+Reduction Round 2
+Initial number of groups: 4
+Reduction at iteration 1 --> 2 groups
+Reduction Round 3
+Initial number of groups: 2
+Reduction at iteration 2 --> 1 groups
+
+

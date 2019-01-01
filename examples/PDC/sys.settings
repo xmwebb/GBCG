@@ -1,0 +1,28 @@
+# Force-field settings file generated on 2018-02-08 via gen_data.py, version 1 Nov 2016
+
+# ~~~~~BONDS~~~~~
+# bond_coeff type k(kcal/mol/ang**2)  r0 (ang)
+bond_coeff  1 harmonic  268.000  1.529
+bond_coeff  2 harmonic  340.000  1.090
+bond_coeff  3 harmonic  340.000  1.090
+bond_coeff  4 harmonic  268.000  1.529
+
+# ~~~~~ANGLES~~~~~
+# angle_coeff type k(kcal/mol/rad**2)  theta_0 (degrees)
+angle_coeff  1 harmonic   37.500 110.700
+angle_coeff  2 harmonic   37.500 110.700
+angle_coeff  3 harmonic   37.500 110.700
+angle_coeff  4 harmonic   58.350 112.700
+angle_coeff  5 harmonic   33.000 107.800
+angle_coeff  6 harmonic   33.000 107.800
+angle_coeff  7 harmonic   58.350 112.700
+
+# ~~~~~DIHEDRALS~~~~~
+# dihedral_coeff type k(kcal/mol) n d weighting_factor
+dihedral_coeff    1 fourier  1    0.075   3    0.000 
+dihedral_coeff    2 fourier  1    0.075   3    0.000 
+dihedral_coeff    3 fourier  1    0.150   3    0.000 
+dihedral_coeff    4 fourier  1    0.150   3    0.000 
+dihedral_coeff    5 fourier  3    0.264   1    0.000   -0.093   2    0.000    0.450   3    0.000 
+dihedral_coeff    6 fourier  1    0.150   3    0.000 
+dihedral_coeff    7 fourier  3    0.264   1    0.000   -0.093   2    0.000    0.450   3    0.000 

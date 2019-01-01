@@ -1,0 +1,2 @@
+To execute from this directory:
+python ../../GB_mapping_progressive.py -data sys.data -traj coords.lammpstrj -tmap lmps2type.map -min_level "2" -max_level "6" -niter 5

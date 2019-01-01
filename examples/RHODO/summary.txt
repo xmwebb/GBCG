@@ -1,0 +1,39 @@
+Reduction Summary for molecule 0
+
+Initial Number of atoms: 5501
+Initial contraction consists of 2741 into 2760 groups
+Reduction Round 1
+Initial number of groups: 2760
+Reduction at iteration 0 --> 1348 groups
+Reduction Round 2
+Initial number of groups: 1348
+Reduction at iteration 1 --> 711 groups
+Reduction Round 3
+Initial number of groups: 711
+Reduction at iteration 2 --> 385 groups
+Reduction Round 4
+Initial number of groups: 385
+Reduction at iteration 3 --> 195 groups
+Reduction Round 5
+Initial number of groups: 195
+Reduction at iteration 4 --> 100 groups
+Reduction Round 6
+Initial number of groups: 100
+Reduction at iteration 5 --> 50 groups
+Reduction Round 7
+Initial number of groups: 50
+Reduction at iteration 6 --> 25 groups
+Reduction Round 8
+Initial number of groups: 25
+Reduction at iteration 7 --> 13 groups
+Reduction Round 9
+Initial number of groups: 13
+Reduction at iteration 8 --> 6 groups
+Reduction Round 10
+Initial number of groups: 6
+Reduction at iteration 9 --> 3 groups
+Reduction Round 11
+Initial number of groups: 3
+Reduction at iteration 10 --> 1 groups
+
+

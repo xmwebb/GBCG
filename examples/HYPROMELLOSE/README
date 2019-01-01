@@ -1,0 +1,2 @@
+To execute from this directory:
+python ../../GB_mapping_progressive.py -data sys.data -traj atom.lammpstrj -tmap lmps2type.map -min_level "2 2 2 3 4" -max_level "2 3 3 3 4" -niter 5

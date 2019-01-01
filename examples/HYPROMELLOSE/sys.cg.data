@@ -1,0 +1,43 @@
+LAMMPS data file via GBCG Mapping, version 1 2018-09-10
+
+2 atoms
+2 atom types
+1 bonds
+1 bond types
+0 angles
+0 angle types
+0 dihedrals
+0 dihedral types
+
+0.903152833157 101.539647167 xlo xhi
+0.903152833157 101.539647167 ylo yhi
+0.903152833157 101.539647167 zlo zhi
+
+Masses
+
+1   337.3922
+2   353.3916
+
+Pair Coeffs
+
+1         0.1000     7.4570
+2         0.1000     7.1029
+
+Bond Coeffs
+
+1  100.000    6.441
+
+Angle Coeffs
+
+
+Dihedral Coeffs
+
+
+Atoms
+
+1 1 2    0.000        50.18108        47.92008        47.64686 0 0 0
+2 1 1    0.000        49.81034        52.17855        52.46472 0 0 0
+
+Bonds
+
+1 1 1 2

@@ -1,0 +1,6 @@
+COMPND    UNNAMED
+AUTHOR    GENEATED BY CG_mapping.py
+HETATM    1 CC3  UNL     1      50.181  47.920  47.647  1.00  0.00          C
+HETATM    2 CC3  UNL     1      49.810  52.179  52.465  1.00  0.00          C
+CONECT    1    2
+CONECT    2    1

@@ -1,0 +1,2 @@
+To execute from this directory:
+python ../../GB_mapping_spectral.py -traj toluene.lammpstrj -data sys.data -niter 3 -weights "mass" -tmap lmps2type.map

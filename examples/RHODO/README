@@ -1,0 +1,3 @@
+To execute from this directory:
+python ../../GB_mapping_spectral.py -traj rhodo.lammpstrj -data sys.data -niter 11 -tmap lmps2type.map 
+

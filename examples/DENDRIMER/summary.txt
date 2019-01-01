@@ -1,0 +1,41 @@
+Reduction Summary for molecule 0
+
+Initial Number of atoms: 101
+Initial contraction consists of 0 into 101 groups
+Reduction Round 1
+Initial number of groups: 101
+Reduction at level 2 --> 61 groups
+Reduction at level 3 --> 61 groups
+Reduction at level 4 --> 61 groups
+Reduction at level 5 --> 61 groups
+Reduction at level 6 --> 61 groups
+Reduction Round 2
+Initial number of groups: 61
+Reduction at level 2 --> 41 groups
+Reduction at level 3 --> 41 groups
+Reduction at level 4 --> 41 groups
+Reduction at level 5 --> 41 groups
+Reduction at level 6 --> 41 groups
+Reduction Round 3
+Initial number of groups: 41
+Reduction at level 2 --> 25 groups
+Reduction at level 3 --> 25 groups
+Reduction at level 4 --> 25 groups
+Reduction at level 5 --> 25 groups
+Reduction at level 6 --> 25 groups
+Reduction Round 4
+Initial number of groups: 25
+Reduction at level 2 --> 25 groups
+Reduction at level 3 --> 25 groups
+Reduction at level 4 --> 19 groups
+Reduction at level 5 --> 19 groups
+Reduction at level 6 --> 9 groups
+Reduction Round 5
+Initial number of groups: 9
+Reduction at level 2 --> 5 groups
+Reduction at level 3 --> 5 groups
+Reduction at level 4 --> 5 groups
+Reduction at level 5 --> 5 groups
+Reduction at level 6 --> 5 groups
+
+

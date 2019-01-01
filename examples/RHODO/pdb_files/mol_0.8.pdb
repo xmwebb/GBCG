@@ -1,0 +1,28 @@
+COMPND    UNNAMED
+AUTHOR    GENEATED BY CG_mapping.py
+HETATM    1 C    UNL     1      -1.961   0.325 -28.968  1.00  0.00          C
+HETATM    2 N    UNL     1      -6.389  11.979  -7.748  1.00  0.00          N
+HETATM    3 C    UNL     1       7.045   6.840  13.452  1.00  0.00          C
+HETATM    4 C    UNL     1       5.929  -1.607  -3.770  1.00  0.00          C
+HETATM    5 C    UNL     1       6.869  -9.388  12.625  1.00  0.00          C
+HETATM    6 C    UNL     1       3.263  -2.523 -17.001  1.00  0.00          C
+HETATM    7 C    UNL     1       2.887   8.512 -13.729  1.00  0.00          C
+HETATM    8 C    UNL     1       5.969 -13.528 -15.095  1.00  0.00          C
+HETATM    9 C    UNL     1      -7.649 -11.457  13.729  1.00  0.00          C
+HETATM   10 C    UNL     1      -6.964  -3.264  14.641  1.00  0.00          C
+HETATM   11 C    UNL     1      -8.295  -8.544 -15.328  1.00  0.00          C
+HETATM   12 C    UNL     1      -4.325   5.118   8.990  1.00  0.00          C
+HETATM   13 C    UNL     1       4.624  17.409  28.265  1.00  0.00          C
+CONECT    1    2
+CONECT    2    3    1
+CONECT    3    2    7
+CONECT    4    5    7
+CONECT    5    6    4
+CONECT    6    5    7
+CONECT    7    3    6    8    4
+CONECT    8    9    7
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   12   10
+CONECT   12   13   11
+CONECT   13   12
